@@ -1,6 +1,6 @@
 import IonIcon from "@reacticons/ionicons";
-import Logo from "../../assets/logo.svg";
-import BuiltWithAppWrite from "../../assets/built-with-appwrite.svg";
+import Logo from "../assets/logo.svg"
+import BuiltWithAppWrite from "../assets/built-with-appwrite.svg";
 export default function Auth() {
   return (
     <div className="flex gap-5  flex-col items-center justify-center h-screen bg-gradient-to-r from-rose-50 to-teal-50">
